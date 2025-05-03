@@ -1,4 +1,4 @@
-# Apointment App
+# Appointment App - ReactJs
 
 ## Getting Started
 

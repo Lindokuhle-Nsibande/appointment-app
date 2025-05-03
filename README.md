@@ -4,17 +4,16 @@
 
 After you have cloned this repo, install the dependencies with:
 
-### ```bash
-
+```bash
 npm install
 
-````
+```
 
 Then start the application with:
 
-### ```bash
+```bash
 npm start
-````
+```
 
 ## Functionality
 
